@@ -1,0 +1,1 @@
+This is a data analyses for a bank . This data was collected for a period of 6 moths if customers left because of some reasons and how the bank can improve to prevent more customers from leaving in the future.
